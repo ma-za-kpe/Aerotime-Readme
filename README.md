@@ -1,6 +1,6 @@
 # AeroTime
 
-![](aerotime.png)
+![](zontoz.png)
 
 ## About
 - Buy airtime and data using this open source app.
